@@ -11,7 +11,7 @@ const Header = () => {
             <nav>About</nav>
             <nav>Contact</nav>
 
-            <button>Register</button>
+            <button style={{width : '100px' , height : '50px' , backgroundColor : '#E52EE3'}}>Register</button>
         </div>
     </div>
   )
