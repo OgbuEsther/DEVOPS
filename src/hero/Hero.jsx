@@ -7,9 +7,9 @@ function Hero() {
           justifyContent: "center",
           flexDirection: "column",
           position: "absolute",
-          top: "40%",
+          top: "20%",
           left: "40%",
-          transform: "translate(-20%, -20%)"
+          padding: "0 2rem",
         }}
       >
         <h1>Introduction To Get linked</h1>
@@ -27,9 +27,8 @@ function Hero() {
       <div
         style={{
           position: "relative",
-          top: "10%",
-          left: "30%",
-          transform: "translate(-40%, -40%)"
+          top: "5%",
+          left: "0%",
         }}
       >
         <img src="./public/bigbulb.png" alt="" />
