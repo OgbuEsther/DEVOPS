@@ -2,7 +2,7 @@ import bulb from "../assets/bigbulb.png"
 
 function Hero() {
   return (
-    <div style={{backgroundColor: "#150E28"}}>
+    <div style={{backgroundColor: "#150E28", color: "white", height: "100vh",}}>
       <div
         style={{
           display: "flex",
