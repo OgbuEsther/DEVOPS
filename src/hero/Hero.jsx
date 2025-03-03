@@ -1,6 +1,6 @@
 function Hero() {
   return (
-    <div>
+    <div style={{backgroundColor: "#150E28"}}>
       <div
         style={{
           display: "flex",
@@ -31,7 +31,7 @@ function Hero() {
           left: "0%",
         }}
       >
-        <img src="./public/bigbulb.png" alt="" />
+        <img src="./bigbulb.png" alt="" />
       </div>
     </div>
   );
