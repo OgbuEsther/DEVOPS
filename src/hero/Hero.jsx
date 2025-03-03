@@ -6,7 +6,6 @@ function Hero() {
           display: "flex",
           justifyContent: "center",
           flexDirection: "column",
-          position: "absolute",
           top: "20%",
           left: "40%",
           padding: "0 2rem",
