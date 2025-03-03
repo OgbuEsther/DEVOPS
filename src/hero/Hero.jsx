@@ -2,7 +2,7 @@ import bulb from "../assets/bigbulb.png"
 
 function Hero() {
   return (
-    <div>
+    <div style={{backgroundColor: "#150E28"}}>
       <div
         style={{
           display: "flex",
@@ -32,6 +32,7 @@ function Hero() {
           left: "0%",
         }}
       >
+
         <img src={bulb} alt="" />
       </div>
     </div>
