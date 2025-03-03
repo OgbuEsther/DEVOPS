@@ -1,3 +1,5 @@
+import bulb from "../assets/bigbulb.png"
+
 function Hero() {
   return (
     <div>
@@ -30,7 +32,7 @@ function Hero() {
           left: "0%",
         }}
       >
-        <img src="./public/bigbulb.png" alt="" />
+        <img src={bulb} alt="" />
       </div>
     </div>
   );
