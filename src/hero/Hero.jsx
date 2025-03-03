@@ -1,3 +1,5 @@
+import bulb from "../assets/bigbulb.png"
+
 function Hero() {
   return (
     <div style={{backgroundColor: "#150E28"}}>
@@ -30,7 +32,8 @@ function Hero() {
           left: "0%",
         }}
       >
-        <img src="./bigbulb.png" alt="" />
+
+        <img src={bulb} alt="" />
       </div>
     </div>
   );
