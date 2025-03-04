@@ -1,3 +1,5 @@
+import bulb from "../assets/bigbulb.png"
+
 function Hero() {
   return (
     <div
