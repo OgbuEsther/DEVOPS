@@ -10,7 +10,8 @@ function Hero() {
         height: "100vh",
         backgroundColor: "#150e28",
         padding: "10 70px",
-        gap: "25px"
+        gap: "25px",
+        overflow : 'hidden' 
       }}
     >
       <div
