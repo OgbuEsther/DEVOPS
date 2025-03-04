@@ -1,3 +1,5 @@
+import bulb from "../assets/bigbulb.png"
+
 function Hero() {
   return (
     <div
@@ -7,7 +9,7 @@ function Hero() {
         alignItems: "center",
         height: "100vh",
         backgroundColor: "#150e28",
-        padding: "0 90px",
+        padding: "10 70px",
         gap: "25px"
       }}
     >
@@ -20,7 +22,7 @@ function Hero() {
           margin: "5px"
         }}
       >
-        <img src="./bigbulb.png" alt="" />
+        <img src= {bulb} alt="" />
       </div>
       <div
         style={{
