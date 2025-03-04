@@ -1,4 +1,4 @@
-import bulb from "../assets/bigbulb.png"
+import bulb from "../../public/bigbulb.png"
 
 function Hero() {
   return (

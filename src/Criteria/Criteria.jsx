@@ -1,7 +1,7 @@
 import React from "react";
 import "./Criteria.css";
 
-import thumbImage from "../assets/thumb-image.png";
+import thumbImage from "../../public/thumb-image.png";
 
 const Criteria = () => {
   return (
