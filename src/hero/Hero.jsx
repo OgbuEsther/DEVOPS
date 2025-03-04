@@ -7,7 +7,7 @@ function Hero() {
         alignItems: "center",
         height: "100vh",
         backgroundColor: "#150e28",
-        padding: "0 70px",
+        padding: "10 70px",
         gap: "25px"
       }}
     >
