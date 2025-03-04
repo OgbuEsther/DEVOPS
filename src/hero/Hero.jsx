@@ -22,7 +22,7 @@ function Hero() {
           margin: "5px"
         }}
       >
-        <img src="./bigbulb.png" alt="" />
+        <img src= {bulb} alt="" />
       </div>
       <div
         style={{
